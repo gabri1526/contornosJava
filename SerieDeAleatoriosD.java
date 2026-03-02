@@ -46,4 +46,9 @@ public class SerieDeAleatoriosD {
         SerieDeAleatoriosD serie1 = new SerieDeAleatoriosD (10);
         serie1.generarSerieDeAleatorios();
     }
+    
+    public static void main(String[] args) {
+        SerieDeAleatoriosD serie1 = new SerieDeAleatoriosD (10);
+        serie1.generarSerieDeAleatorios();
+    }
 } //Cierre de la clase y del ejemplo aprenderaprogramar.com
